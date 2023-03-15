@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "748591181217",
+    "project_id": "milan-app-df8f0",
+    "storage_bucket": "milan-app-df8f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748591181217:android:37d11c792bec7d20d26fe0",
+        "android_client_info": {
+          "package_name": "com.highfliers.high_fliers_android_hack2k21"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748591181217-7o4fgb199oa6vlhn14j3jp74b63ndqqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBj9dDfOdV-53Spq56gTlBymTHIP4pMLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748591181217-7o4fgb199oa6vlhn14j3jp74b63ndqqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

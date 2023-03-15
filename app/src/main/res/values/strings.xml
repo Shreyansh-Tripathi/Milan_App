@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Milan</string>
+    <string name="new_user_signup">New User? SignUp</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="hey_there_welcome">Hey there,"\n"Welcome
+    </string>
+    <string name="create_account">Create"\n"Account
+    </string>
+    <string name="name">Name</string>
+    <string name="register">Register</string>
+    <string name="already_a_user_sign_in">Already a User? Sign In</string>
+
+    <string name="subscription_key">cbd0c6c5fb63406db3588b382a5d3728</string>
+    <string name="location">centralindia</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="verify_your_email_to_proceed">A verification email has been sent to your email address."\n"
+        Please verify to proceed.
+    </string>
+    <string name="proceed">Proceed!</string>
+    <string name="music">Music</string>
+    <string name="create_room">Create Room</string>
+    <string name="room_name">Room name</string>
+    <string name="choose_a_category">Choose a category</string>
+    <string name="create">Create</string>
+    <string name="create_anonymous_room">Create Anonymous Room</string>
+    <string name="create_restricted_room">Create Restricted Room</string>
+    <string name="enter_sub_category">Enter sub-category</string>
+    <string name="choose_interests">Choose Interests</string>
+    <string name="token">00605e50966597e4cc5b0005aa1e5c44181IAB5TXm8tjxKa2gWq8pWTHoQW4zR8n+jhQScj5dlkBJovK7tMcIAAAAAEAAm+nFW3unYYAEAAQDe6dhg</string>
+    <string name="agora_app_id">05e50966597e4cc5b0005aa1e5c44181</string>
+
+
+    <string-array name="category">
+        <item>Music</item>
+        <item>Sports</item>
+        <item>Poetry</item>
+        <item>Literature</item>
+        <item>Games</item>
+        <item>Technology</item>
+        <item>Fashion</item>
+        <item>Comedy</item>
+        <item>Debate</item>
+        <item>Movies</item>
+    </string-array>
+
+</resources>

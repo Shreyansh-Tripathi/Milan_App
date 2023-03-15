@@ -1,0 +1,2 @@
+rootProject.name = "high-fliers_android_hack2k21"
+include ':app'
