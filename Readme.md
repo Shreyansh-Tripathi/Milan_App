@@ -1,4 +1,4 @@
-#Project Name(Android App): Milan (मिलन)#
+Project Name(Android App): Milan (मिलन)
 
 Tagline: Connecting People Together
 
