@@ -1,10 +1,6 @@
-Android App Development (HACKATHON 2K21)
+#Project Name(Android App): Milan (मिलन)#
 
-Team Name: High-Fliers
-
-Project Name(Android App): Milan (मिलन)
-
-Tagline: Linking People Together
+Tagline: Connecting People Together
 
 Problem Statement:
 
